@@ -1,12 +1,1 @@
-18	[WPCB] - Check Hold Unhold Firefox Native  to Firefox Native
-35	[WPCB] - Check Hold Unhold Firefox Native  to Chrome
-51	[WPCB] - Check Videopath Firefox Native to Firefox ESR
-52	[WPCB] - Check Hold Unhold Firefox Native to Firefox ESR
-69	[WPCB] - Check Hold Unhold Firefox Native  to Chrome on Mac
-86	[WPCB] - Check Hold Unhold Firefox Native to IE
-102	[WPCB] - Check Hold Unhold Firefox Native to MAC Safari
-119	[WPCB] - Check Hold Unhold Firefox Native to Chrome on Android
-143	[MidCall Services] - Check Video Stop Start for Firefox Native to GCFAndroid
-147	Check Video Escalation - Check Video Escalation for Firefox Native to GCFAndroid
-151	[WPCB] - Check Videopath Firefox Native to GCFAndroid
-152	[WPCB] - Check Hold Unhold Firefox Native to GCFAndroid
+nts1
